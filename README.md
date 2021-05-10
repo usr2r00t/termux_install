@@ -1,1 +1,1 @@
-#termux instal
+#Termux install
